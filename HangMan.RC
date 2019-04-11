@@ -1,0 +1,9 @@
+ICON 1 g:\sibyl\progs\hangman\hangman.ico
+BITMAP 1000 g:\sibyl\progs\hangman\bitmaps\empty.bmp
+BITMAP 1001 g:\sibyl\progs\hangman\bitmaps\whead.bmp
+BITMAP 1002 g:\sibyl\progs\hangman\bitmaps\wbody.bmp
+BITMAP 1003 g:\sibyl\progs\hangman\bitmaps\w1arm.bmp
+BITMAP 1004 g:\sibyl\progs\hangman\bitmaps\wbotha.bmp
+BITMAP 1005 g:\sibyl\progs\hangman\bitmaps\w1leg.bmp
+BITMAP 1006 g:\sibyl\progs\hangman\bitmaps\hung.bmp
+

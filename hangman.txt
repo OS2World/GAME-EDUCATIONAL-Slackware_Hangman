@@ -1,0 +1,26 @@
+                          Upload Information Template for Hobbes.nmsu.edu
+                          ===============================================
+
+        Archive Filename: hangman.zip
+       Short Description: The classic game of Hangman (v1.03b)
+        Long Description: This game is a quick and dirty attempt at throwing together a game using Speedsoft's Sibyl.  The games allows several options including picking sounds for different game events.  Hangman includes a file of words, but allows for interactivly entering words or using a different list of words.  Version 1.03b fixed a problem with selecting the sound file name in the
+configuration dialog.
+
+      Proposed directory
+           for placement: /pub/os2/games/word
+
+               Your name: Michael G. Slack
+           Email address: slack@attglobal.net
+    Program contact name: (same)
+   Program contact email: (same)
+             Program URL: (none) 
+
+      Would you like the
+   contact email address
+    included in listings? yes
+
+Operating System/Version: Warp 4.0 (maybe Warp 3.0)
+ Additional requirements: MMOS/2
+
+                Replaces: hangman.zip
+
